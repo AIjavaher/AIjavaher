@@ -7,9 +7,9 @@
 
 - 👯 I’m looking to collaborate on **the combination of GIS and  Artificial Intelligence**
 
-- 👨‍💻 My codes of YouTube course are available at [📚](https://github.com/AIjavaher/python_class)
+- 👨‍💻 My codes for the YouTube course are available at [📚](https://github.com/AIjavaher/python_class)
 
-- 💬 Ask me about **python, Machine Leaning, Deep Learning, Reinforcement Learning, GIS, Remote Sensing**
+- 💬 Ask me about **python, Machine Learning, Deep Learning, Reinforcement Learning, GIS, Remote Sensing**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
