@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **C#**
 
-- 👯 I’m looking to collaborate on **the combination of GIS and Artificial Intrlligence**
+- 👯 I’m looking to collaborate on **the combination of GIS and  Artificial Intelligence**
 
 - 👨‍💻 My codes of YouTube course are available at [https://github.com/AIjavaher](https://github.com/AIjavaher)
 
